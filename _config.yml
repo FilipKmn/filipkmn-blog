@@ -1,10 +1,10 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Filip's personal blog
+description: Blogging about marketing the Kendo way
+meta_description: ""
 
 markdown: redcarpet
 highlighter: pygments
-logo: false
+logo: true
 paginate: 15
 baseurl: /
 domain_name: 'http://yourblog-domain.com'
@@ -12,4 +12,4 @@ google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         'Filip Komnenović'
